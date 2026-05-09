@@ -1,5 +1,5 @@
 # Description
-I created this repo only to store my certificates and keep them safe. I set the repo public to showcase my interests to anyone interested in working with me.
+I created this repo only to store my certificates and keep them safe. I set the repo public to showcase my interests to anyone who wants to know me.
 
 ## 👓 I'm interested in
 1. Machine Learning
